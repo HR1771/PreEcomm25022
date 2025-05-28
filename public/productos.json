@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Café Espresso",
+        "precio": 120,
+        "stock": 10,
+        "imagen": "/img/Café Espresso.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Café Americano",
+        "precio": 100,
+        "stock": 15,
+        "imagen": "/img/Café Americano.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Café Latte",
+        "precio": 150,
+        "stock": 8,
+        "imagen": "/img/Café Latte.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Café Mocha",
+        "precio": 180,
+        "stock": 5,
+        "imagen": "/img/Café Mocha.jpg"
+    }
+]
